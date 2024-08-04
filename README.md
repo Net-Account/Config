@@ -14,5 +14,6 @@ Just Copy the link to your client to use:
 https://raw.githubusercontent.com/Net-Account/Config/main/Net-Account.txt
 ```
 
-
-***Android Clients***
+```
+### ***Android Clients***
+```
