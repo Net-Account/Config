@@ -2,7 +2,9 @@
 ---
 [TELEGRAM](https://t.me/NetAccount)
 
-V2ray Servers
+## Free V2ray Servers
+
+## سرور های v2ray رایگان
 
 Just Copy the link to your client to use :
 
