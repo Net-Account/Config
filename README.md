@@ -1,4 +1,4 @@
-## چنل تلگرامی ما
+## چنل تلگرامی ما: NetAccount@
 ---
 [TELEGRAM](https://t.me/NetAccount)
 
