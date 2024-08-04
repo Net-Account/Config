@@ -5,8 +5,8 @@
 ## Free V2ray Servers
 
 ## سرور های v2ray رایگان
-
-Just Copy the link to your client to use :
+فقط لینک سابسکریپشن رو کپی کنید و در کلاینت وارد کنید
+Just Copy the link to your client to use:
 
 - Subscription:
 ```
