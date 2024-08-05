@@ -15,13 +15,17 @@ https://raw.githubusercontent.com/Net-Account/Config/main/Net-Account.txt
 ```
 
 ****
+### 📱 Windows Clients
+  
+1. [Hiddify](https://github.com/hiddify/hiddify-next) <img src="assets/Hiddify-icon.png" alt="Hiddify" width="30"/>
+
+****
 ### 📱 Android Clients
   
-1. [V2rayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang&hl=en)
+1. [V2rayNG](https://github.com/2dust/v2rayNG)
 
 2. [Hiddify](https://github.com/hiddify/hiddify-next) <img src="assets/Hiddify-icon.png" alt="Hiddify" width="30"/>
 
-3. Item3
 
 
 ## Telegram Channel
