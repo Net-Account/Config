@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/Net-Account/Config/main/Net-Account.txt
 ****
 ### 📱 Android Clients
   
-1. [V2rayNG](https://github.com/2dust/v2rayNG) <img src="assets/v2rayng-icon2.png" alt="Hiddify" width="30"/>
+1. [V2rayNG](https://github.com/2dust/v2rayNG) <img src="assets/v2rayng-icon2.png" alt="Hiddify" width="25"/>
 
 2. [Hiddify](https://github.com/hiddify/hiddify-next) <img src="assets/Hiddify-icon.png" alt="Hiddify" width="30"/>
 
