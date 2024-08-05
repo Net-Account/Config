@@ -18,5 +18,7 @@ https://raw.githubusercontent.com/Net-Account/Config/main/Net-Account.txt
 ### 📱 Android Clients
   
 1. [V2rayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang&hl=en)
-2. [Hiddify](https://github.com/hiddify/hiddify-next)![Hiddify-icon](https://github.com/user-attachments/assets/2b2b31c3-02f2-47c8-af08-0dfb4fbd10d6)
+
+2. [Hiddify](https://github.com/hiddify/hiddify-next) <img src="assets/Hiddify-icon.png" alt="Hiddify" width="30"/>
+
 3. Item3
