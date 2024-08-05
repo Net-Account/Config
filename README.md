@@ -1,3 +1,8 @@
+<p align="center">
+$\mathbb{{\Large NetAccount\infty}}$
+</p>
+
+
 ### چنل تلگرامی ما: [NetAccount](https://t.me/NetAccount)
 ---
 [TELEGRAM](https://t.me/NetAccount)
