@@ -6,8 +6,6 @@ $\mathbb{{\Large NetAccount\infty}}$
 
 ### چنل تلگرامی ما: [NetAccount](https://t.me/NetAccount)
 
-[TELEGRAM](https://t.me/NetAccount)
-
 ---
 ## Free V2ray Servers🔥
 
