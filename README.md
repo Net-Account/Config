@@ -22,3 +22,7 @@ https://raw.githubusercontent.com/Net-Account/Config/main/Net-Account.txt
 2. [Hiddify](https://github.com/hiddify/hiddify-next) <img src="assets/Hiddify-icon.png" alt="Hiddify" width="30"/>
 
 3. Item3
+
+
+## Telegram Channel
+🔗 https://t.me/NetAccount
