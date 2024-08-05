@@ -15,8 +15,7 @@ $\mathbb{{\Large NetAccount\infty}}$
 فقط لینک سابسکریپشن رو کپی کنید و در کلاینت وارد کنید
 
 Just Copy the link to your client to use:
-
-- Subscription:
+#### - Subscription:
 ```mupad
 https://raw.githubusercontent.com/Net-Account/Config/main/Net-Account.txt
 ```
