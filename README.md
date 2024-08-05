@@ -9,7 +9,7 @@ $\mathbb{{\Large NetAccount\infty}}$
 [TELEGRAM](https://t.me/NetAccount)
 
 ---
-## Free V2ray Servers
+## Free V2ray Servers🔥
 
 ## سرور های v2ray رایگان
 فقط لینک سابسکریپشن رو کپی کنید و در کلاینت وارد کنید
