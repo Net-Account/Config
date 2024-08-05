@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/Net-Account/Config/main/Net-Account.txt
 ```
 
 ****
-### 🖥💻 Windows Clients
+### 🖥 Windows Clients
   
 1. [Hiddify](https://github.com/hiddify/hiddify-next) <img src="assets/Hiddify-icon.png" alt="Hiddify" width="30"/>
 
