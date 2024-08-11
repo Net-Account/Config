@@ -1,12 +1,5 @@
 Telegram=@NetAccount 
 vless://NetAccount @1.1.1.1:1234?encryption=none&security=none&type=tcp&headerType=http&host=none#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%AF%D8%B1%40NetAccount 
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.102:989#t.me/NetAccount â (Greece)|ð¬ð·|30750
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.150:989#t.me/NetAccount â (United Kingdom)|ð¬ð§|30756
-ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg@80.92.204.106:9024#t.me/NetAccount â (Germany)|ð©ðª|30760
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.113:989#t.me/NetAccount â (United Kingdom)|ð¬ð§|30761
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.90.61.153:989#t.me/NetAccount â (Norway)|ð³ð´|30766
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@23.150.152.112:8009#t.me/NetAccount â (United States)|ðºð¸|30768
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@23.150.152.112:5498#t.me/NetAccount â (United States)|ðºð¸|30778
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg@45.89.52.66:9040#t.me/NetAccount â (TÃ¼rkiye)|ð¹ð·|30785
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@31.171.153.181:989#t.me/NetAccount â (Albania)|ð¦ð±|30789
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ@217.30.10.18:9033#t.me/NetAccount â (Poland)|ðµð±|30794
@@ -50,3 +43,10 @@ vless://94f51d56-204b-466b-b1d7-d397df9273d5@172.67.193.36:2095?Telegram=@NetAcc
 vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?Telegram=@NetAccount ,@NetAccount ,@NetAccount ,@NetAccount ,@NetAccount ,@NetAccount &path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=none&encryption=none&host=v2ra1.ecrgpk.workers.dev&type=ws#t.me/NetAccount â (CloudFlare)|ð¨ð¦|30874
 vless://f4859fc9-dc44-11ee-b9ba-00505603e70d@151.101.2.219:443?Telegram=@NetAccount ,@NetAccount ,@NetAccount ,@NetAccount ,@NetAccount ,@NetAccount &path=%2Fwebsocket%3Fed%3DTELEGRAM-MARAMBASHI-MARAMBASHI-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&host=01.ir&type=ws&sni=speedtest.net#t.me/NetAccount â (United States)|ðºð¸|30876
 vless://94f51d56-204b-466b-b1d7-d397df9273d5@104.21.20.148:2095?Telegram=@NetAccount ,@NetAccount ,@NetAccount ,@NetAccount ,@NetAccount ,@NetAccount &path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&type=ws#t.me/NetAccount â (CloudFlare)|ð¨ð¦|30879
+vless://94f51d56-204b-466b-b1d7-d397df9273d5@104.21.20.148:2095?Telegram=@NetAccount ,@NetAccount ,@NetAccount ,@NetAccount ,@NetAccount ,@NetAccount &path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&type=ws#t.me/NetAccount â (CloudFlare)|ð¨ð¦|30880
+vless://94f51d56-204b-466b-b1d7-d397df9273d5@104.21.20.148:2095?Telegram=@NetAccount ,@NetAccount ,@NetAccount ,@NetAccount ,@NetAccount ,@NetAccount &path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&type=ws#t.me/NetAccount â (CloudFlare)|ð¨ð¦|30881
+vless://94f51d56-204b-466b-b1d7-d397df9273d5@172.67.193.36:2095?Telegram=@NetAccount ,@NetAccount ,@NetAccount ,@NetAccount ,@NetAccount ,@NetAccount &path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.%E5%8F%91%E5%87%BA%E6%9D%A5%E5%B0%B1%E8%A2%AB%E5%90%9E.website.&type=ws#t.me/NetAccount â (CloudFlare)|ð¨ð¦|30882
+vless://94f51d56-204b-466b-b1d7-d397df9273d5@104.21.20.148:2095?Telegram=@NetAccount ,@NetAccount ,@NetAccount ,@NetAccount ,@NetAccount ,@NetAccount &path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&type=ws#t.me/NetAccount â (CloudFlare)|ð¨ð¦|30883
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRSVlIN3NpRTVmNmJjYVotSXVUczl3@172.233.62.73:1080#t.me/NetAccount â (Netherlands)|ð³ð±|30887
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWFdiRk5JTnJ0bW0xVDBRTnVJbk5abFpUaW12NmNyTGNBS3RtRkRVR3hCNTVUcDA=@81.28.6.186:51348#t.me/NetAccount â (Germany)|ð©ðª|30889
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.86:8888#t.me/NetAccount â (United States)|ðºð¸|30896
